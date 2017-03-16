@@ -1,4 +1,4 @@
-package belajar.restfull;
+package belajar.restfull.hallo;
 
 import java.util.concurrent.atomic.AtomicLong;
 import org.springframework.web.bind.annotation.RequestMapping;

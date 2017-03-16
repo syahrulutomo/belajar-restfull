@@ -1,4 +1,4 @@
-package belajar.restfull;
+package belajar.restfull.hallo;
 
 public class Greeting {
     

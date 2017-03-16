@@ -1,5 +1,5 @@
 
-package belajar.restfull;
+package belajar.restfull.hallo;
 
 /**
  *
